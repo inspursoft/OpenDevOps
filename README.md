@@ -1,5 +1,5 @@
 # OpenDevOps
-Board-DevOps是一个
+Board-DevOps是一个基于开源项目构建的DevOps平台
 
 ## 目录
 
