@@ -4,7 +4,7 @@ Board-DevOps是一个基于开源项目构建的研发运营一体化DevOps平�
 ## 目录
 
 - [前言](https://github.com/inspursoft/OpenDevOps/blob/main/docs/introduction.md#前言)
-- [定位及主要功能](https://github.com/inspursoft/OpenDevOps/blob/main/docs/introduction.md#定位及主要功能)
+- [定位及主要功能](https://github.com/inspursoft/OpenDevOps/blob/main/docs/introduction.md#产品定位)
 - [架构](https://github.com/inspursoft/OpenDevOps/blob/main/docs/introduction.md)
 - [安装部署]()
 - [应用最佳实践](https://github.com/inspursoft/DevOps)
