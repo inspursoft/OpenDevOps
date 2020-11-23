@@ -35,3 +35,5 @@ Board-DevOps是一个基于开源项目构建的研发运营一体化DevOps平�
 <img alt="安装工具集" src="../docs/images/ToolsList.png">  
 
 # 最佳实践
+
+[信通院DevOps能力评估项目](https://github.com/inspursoft/DevOps/tree/master/%E9%A1%B9%E7%9B%AE%E8%83%8C%E6%99%AF)
