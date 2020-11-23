@@ -32,4 +32,6 @@ Board-DevOps是一个基于开源项目构建的研发运营一体化DevOps平�
 
 # 安装部署
 
+<img alt="安装工具集" src="../docs/images/ToolsList.png">  
+
 # 最佳实践
