@@ -12,7 +12,7 @@ Board-DevOps是一个基于开源项目构建的研发运营一体化DevOps平�
 
 # 架构图
 
-<img alt="产品架构图" src="../docs/imgs/arch-diagram1.png">  
+<img alt="产品架构图" src="../docs/images/arch-diagram1.png">  
 
 # 主要功能
 
