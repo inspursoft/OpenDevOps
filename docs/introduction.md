@@ -16,6 +16,9 @@ Board-DevOps是一个基于开源项目构建的研发运营一体化DevOps平�
 
 <img alt="产品架构图" src="../docs/images/arch-diagram1.png">  
 
+
+
+
 | 组件 | 服务地址 | 简介 | 工具源 |
 | ------ | ------ |------ | ------ |
 | Gitlab |     | 代码管理和流水线驱动 | https://github.com/ |
