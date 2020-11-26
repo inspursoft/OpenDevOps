@@ -17,34 +17,6 @@ Board-DevOps是一个基于开源项目构建的研发运营一体化DevOps平�
 <img alt="产品架构图" src="../docs/images/arch-diagram1.png">  
 
 
-
-
-| 组件 | 服务地址 | 简介 | 工具源 |
-| ------ | ------ |------ | ------ |
-| Gitlab |     | 代码管理和流水线驱动 | https://github.com/ |
-| Sonarqube |     | 代码扫描和单元测试平台 | https://www.sonarqube.org |
-| Nexus |       | 产成品和镜像仓库 | https://www.nexusmods.com/ |
-| Kubernetes |       | 容器调度平台 | https://kubernetes.io/ |
-| Keeper |      | 虚机调度及Gitlab回调集成服务平台 | https://github.com/inspursoft/keeper |
-| Board |      | 容器云管理平台 | http://github.com/inspursoft/board/ |
-| Prometheus |     | 监控管理工具 | https://prometheus.io/ |
-| Helm |     | 基于容器的包管理工具 | https://helm.sh/ |
-| Vagrant |     | 虚拟机调度平台  | https://www.vagrantup.com/ |
-| VirtulBox|     | 虚拟机调度平台  | https://www.virtualbox.org/ |
-| ITP |     | 测试及质量管理平台 | http://git.inspur.com/testcenter/testservice-ui |
-| appium-service |       | UI测试服务 | http://appium.io/ |
-| JUnit |     | 单元测试工具 | https://junit.org/junit5/ |
-| Swagger |     | API描述工具 | http://swagger.io/ |
-| Pytest |     | API接口测试工具 | https://pypi.org/project/pytest/ |
-| vscode 1.37.0|     | 前端 | https://code.visualstudio.com|
-| node.js 10.16.2|     | 前端 | http://nodejs.cn/download/|
-| gradle 4.9|     | 前端 | https://gradle.org|
-| android sdk 26|     | 前端测试 | http://developer.android.com|
-| cordova 8.0.0|     | 前端测试 | https://cordova.apache.org|
-| intllij 2019.2|     | 服务端 | http://www.jetbrains.com/idea/|
-| jdk 9|      | 服务端 | https://www.oracle.com|
-|apache-ant|     | 前端 | http://ant.apache.org|
-
 # 主要功能
 
 ## 项目管理
@@ -74,6 +46,34 @@ DevOps项目管理是为开发团队提供丰富的业务功能，项目协作�
 # 安装部署
 
 <img alt="安装工具集" src="../docs/images/ToolsList.png">  
+
+
+
+| 组件 | 服务地址 | 简介 | 工具源 |
+| ------ | ------ |------ | ------ |
+| Gitlab |     | 代码管理和流水线驱动 | https://github.com/ |
+| Sonarqube |     | 代码扫描和单元测试平台 | https://www.sonarqube.org |
+| Nexus |       | 产成品和镜像仓库 | https://www.nexusmods.com/ |
+| Kubernetes |       | 容器调度平台 | https://kubernetes.io/ |
+| Keeper |      | 虚机调度及Gitlab回调集成服务平台 | https://github.com/inspursoft/keeper |
+| Board |      | 容器云管理平台 | http://github.com/inspursoft/board/ |
+| Prometheus |     | 监控管理工具 | https://prometheus.io/ |
+| Helm |     | 基于容器的包管理工具 | https://helm.sh/ |
+| Vagrant |     | 虚拟机调度平台  | https://www.vagrantup.com/ |
+| VirtulBox|     | 虚拟机调度平台  | https://www.virtualbox.org/ |
+| ITP |     | 测试及质量管理平台 | http://git.inspur.com/testcenter/testservice-ui |
+| appium-service |       | UI测试服务 | http://appium.io/ |
+| JUnit |     | 单元测试工具 | https://junit.org/junit5/ |
+| Swagger |     | API描述工具 | http://swagger.io/ |
+| Pytest |     | API接口测试工具 | https://pypi.org/project/pytest/ |
+| vscode 1.37.0|     | 前端 | https://code.visualstudio.com|
+| node.js 10.16.2|     | 前端 | http://nodejs.cn/download/|
+| gradle 4.9|     | 前端 | https://gradle.org|
+| android sdk 26|     | 前端测试 | http://developer.android.com|
+| cordova 8.0.0|     | 前端测试 | https://cordova.apache.org|
+| intllij 2019.2|     | 服务端 | http://www.jetbrains.com/idea/|
+| jdk 9|      | 服务端 | https://www.oracle.com|
+|apache-ant|     | 前端 | http://ant.apache.org|
 
 # 最佳实践
 
